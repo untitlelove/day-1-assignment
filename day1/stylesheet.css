@@ -1,0 +1,16 @@
+<head>
+body { background-color: aquamarine;
+}
+h1 {
+    background-color: beige;
+    color: chartreuse;
+    font-family: cursive;
+    text-align: center;
+}
+p {
+    color: rgb(23, 41, 6);
+    padding: 2%;
+}
+pre{
+    color: rgb(70, 238, 93);
+}
